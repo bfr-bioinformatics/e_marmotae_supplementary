@@ -1,0 +1,153 @@
+ID	Genome Name	Epi-type	subepi-type	Host	Host latin	Isolation Source	Collection Date	Continent	Isolation Country	Geographic Location	O-antigen	H-antigen	Accessory genome size	MLST	Count plasmid markers	Count virulence factors	FimH allele
+21-MO00410-0	21-MO00410-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2016	Europe	Germany	Hesse	Onovel8	H56	very large	Unknown	2	54	fimH630
+21-MO00411-0	21-MO00411-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2016	Europe	Germany	Saxony	O10	H56	very large	133	3	61	fimH630
+21-MO00455-0	21-MO00455-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Mecklenburg-Western Pomerania	O2-O50-Gp7/O2-Gp7	H56	very large	5600	3	54	fimH160
+21-MO00456-0	21-MO00456-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Mecklenburg-Western Pomerania	O10	H56	large	133	2	61	fimH630
+21-MO00467-0	21-MO00467-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Schleswig-Holstein	O10	H56	very large	133	2	61	fimH630
+21-MO00471-0	21-MO00471-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Rhineland-Palatinate	O88	H56	very large	133	4	53	fimH630
+21-MO00473-0	21-MO00473-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Rhineland-Palatinate	Onovel8	H56	very large	Unknown	5	54	fimH630
+21-MO00586-0	21-MO00586-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2016	Europe	Germany	Lower Saxony	O10	H56	very large	133	5	61	fimH630
+21-MO00588-0	21-MO00588-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Rhineland-Palatinate	O53	H56	large	2721	4	59	fimH621
+21-MO00589-0	21-MO00589-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Lower Saxony	O130	H56	intermdiate	4104	2	50	fimH160
+21-MO00590-0	21-MO00590-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Lower Saxony	O2-O50-Gp7/O2-Gp7	H56	very large	5600	2	54	fimH160
+21-MO00591-0	21-MO00591-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Lower Saxony	O156	H56	intermdiate	7630	2	53	fimH627
+21-MO00592-0	21-MO00592-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Saarland	O2-O50-Gp7/O2-Gp7	H56	very large	5600	2	54	fimH160
+21-MO00593-0	21-MO00593-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Thuringia	O2-O50-Gp7/O2-Gp7	H56	large	8370	1	66	fimH160
+21-MO00612-1	21-MO00612-1	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Mecklenburg-Western Pomerania	O10	H56	very large	133	2	53	fimH630
+21-MO00613-0	21-MO00613-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Rhineland-Palatinate	Onovel13	H56	very large	133	3	61	fimH630
+21-MO00625-0	21-MO00625-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2020	Europe	Germany	Rhineland-Palatinate	Onovel8	H56	very large	Unknown	2	60	fimH630
+21-MO01153-0	21-MO01153-0	Animal	Wildlife	Duck		Kidney	2014	Europe	Germany	Mecklenburg-Western Pomerania	Onovel13	H56	small	Unknown	2	42	fimH630
+21-MO01154-0	21-MO01154-0	Animal	Wildlife	Duck		Feces	2014	Europe	Germany	Mecklenburg-Western Pomerania	O103	H56	intermdiate	5260	3	60	fimH630
+21-MO01155-0	21-MO01155-0	Animal	Wildlife	Wild Boar	Sus scrofa	Feces	2016	Europe	Germany	Schleswig-Holstein	Onovel13	H56	very small	9417	0	53	fimH625
+21-MO01156-0	21-MO01156-0	Animal	Wildlife	Wild Boar	Sus scrofa	Meat	2008	Europe	Germany	NA	O156	H56	intermdiate	7630	3	53	fimH627
+21-MO01157-0	21-MO01157-0	Environmental	Plant			Leafy Green	2011	Europe	Germany	Berlin	O10	H56	very large	133	1	62	fimH630
+21-MO01158-0	21-MO01158-0	Environmental	Plant			Leafy Green	2011	Europe	Germany	Berlin	O10	H56	very large	133	1	62	fimH630
+21-MO01160-0	21-MO01160-0	Animal	Wildlife	Red Deer		Meat	2011	Europe	Germany	Saxony-Anhalt	O98	H56	large	3747	3	83	Unknown
+21-MO01161-0	21-MO01161-0	Animal	Wildlife	Red Deer		Meat	2015	Europe	Germany	Saxony-Anhalt	O2-O50-Gp7/O2-Gp7	H56	very large	5566	3	59	fimH630
+GCA_000208565.2	TW09308	Environmental	Soil			Freshwater Beach	NA	North-America	USA	Michigan	Onovel13	H56	large	6500	3	64	fimH150
+GCA_000350705.1	KTE11	NA	NA	NA	NA	NA	NA	NA	NA	NA	Unknown	H56	small	5463	0	52	fimH160
+GCA_000408325.1	KTE52	Human	Human	Human 	Homo Sapiens	Na	2010	Europe	Denmark	Denmark	Onovel13	H56	intermdiate	3727	2	62	fimH623
+GCA_000408525.1	KTE96	Human	Human	Human 	Homo Sapiens	Na	2009	Europe	Denmark	Denmark	Unknown	H56	intermdiate	5463	0	52	fimH160
+GCA_000408805.1	KTE159	Human	Human	Human 	Homo Sapiens	Na	2010	Europe	Denmark	Denmark	O103	H56	intermdiate	5260	3	65	fimH630
+GCA_001561675.1	B116	Human	Human	Human 	Homo Sapiens	Blood	2012	Europe	United Kingdom	United Kingdom	Onovel13	H56	small	133	0	53	fimH630
+GCA_002109985.1	E1118	Environmental	Water			Freshwater	NA	Australia	Australia	Australia	O53	H56	intermdiate	2721	1	59	fimH621
+GCA_002573245.1	12b_Esco_HA-NL	Human	Human	Human 	Homo Sapiens	Rectal Swab	2012	Europe	Netherlands	Netherlands	Unknown	H56	small	5463	4	52	fimH160
+GCA_002573255.1	12_Esco_HA-NL	Human	Human	Human 	Homo Sapiens	Rectal Swab	2012	Europe	Netherlands	Netherlands	Unknown	H56	small	5463	3	52	fimH160
+GCA_002900365.1	HT073016	Animal	Wildlife	Marmot	Marmota Himalayana	Feces	2012	Asia	China	China: Qinghai-Tibet plateau	O38	H56	large	7530	2	54	fimH626
+GCA_002965085.1	MOD1-EC6158	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2012	North-America	USA	USA:AK	O53	H56	large	2721	2	62	fimH625
+GCA_002965105.1	MOD1-EC6157	Animal	Wildlife	Duck	Polysticta Stelleri	Feces	2012	North-America	USA	USA:AK	O2-Gp7	H56	small	Unknown	2	63	fimH160
+GCA_002965125.1	MOD1-EC6162	Animal	Wildlife	Duck	Somateria Fischeri	Feces	2012	North-America	USA	USA:AK	Unknown	H56	intermdiate	6499	2	61	fimH622
+GCA_002965135.1	MOD1-EC6154	Animal	Wildlife	Duck	Polysticta Stelleri	Choana	2012	North-America	USA	USA:AK	O103	H56	large	6528	4	60	fimH628
+GCA_002965185.1	MOD1-EC6149	Animal	Wildlife	Duck	Somateria Fischeri	Cloacae	2012	North-America	USA	USA:AK	Unknown	H56	intermdiate	6499	2	61	fimH622
+GCA_002965205.1	MOD1-EC6144	Animal	Wildlife	Duck	Somateria Fischeri	Cloacae	2012	North-America	USA	USA:AK	O53	H56	large	2721	2	62	fimH625
+GCA_002965225.1	MOD1-EC6099	Animal	Livestock	Pig		Pleural Cavity	1983	North-America	USA	USA:PA	O103	H56	intermdiate	Unknown	2	62	fimH630
+GCA_002965265.1	MOD1-EC6097	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2011	North-America	USA	USA:AK	Unknown	H56	very large	5443	3	61	fimH160
+GCA_002965295.1	MOD1-EC5949	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2008	North-America	USA	USA:AK	O53	H56	large	2721	4	61	fimH625
+GCA_002965345.1	MOD1-EC5950	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2008	North-America	USA	USA:AK	O103	H56	large	6528	3	60	fimH628
+GCA_002965365.1	MOD1-EC5948	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2008	North-America	USA	USA:AK	O103	H56	very large	Unknown	5	63	fimH628
+GCA_002965395.1	MOD1-EC5462	Animal	Wildlife	Goose	Branta	Feces	1993	North-America	USA	USA:NY	Onovel13	H56	very small	Unknown	0	53	fimH150
+GCA_002965425.1	MOD1-EC5449	Environmental	Water			Water	1993	North-America	USA	USA:NY	Onovel13	H56	small	6495	3	59	fimH160
+GCA_002965465.1	MOD1-EC5438	Environmental	Water			Water	1991	North-America	USA	USA:NY	Onovel13	H56	very small	Unknown	0	53	fimH150
+GCA_002965525.1	MOD1-EC5427	Environmental	Soil			Soil	1993	North-America	USA	USA:NY	O146	H56	very small	7348	0	52	fimH630
+GCA_002965785.1	MOD1-EC6163	Animal	Wildlife	Duck	Somateria Fischeri	Feces	2012	North-America	USA	USA:AK	O10	H56	very large	5443	2	62	fimH160
+GCA_002965805.1	MOD1-EC6150	Animal	Livestock	Poultry		Choana	2012	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	small	Unknown	2	63	fimH160
+GCA_002965825.1	MOD1-EC6147	Animal	Wildlife	Duck	Somateria Fischeri	Cloacae	2012	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	large	Unknown	1	59	fimH160
+GCA_002965845.1	MOD1-EC6153	Animal	Wildlife	Duck	Polysticta Stelleri	Choana	2012	North-America	USA	USA:AK	O10	H56	very large	5443	4	60	fimH160
+GCA_002965865.1	MOD1-EC6098	Animal	Livestock	Pig		Pleural Cavity	1983	North-America	USA	USA:PA	O10	H56	very large	5443	4	61	fimH160
+GCA_002965885.1	MOD1-EC6100	Animal	Livestock	Pig		Pleural Cavity	1983	North-America	USA	USA:PA	O53	H56	intermdiate	2721	3	62	fimH625
+GCA_002965905.1	MOD1-EC6096	Animal	Wildlife	Duck	Anas Platyrhynchos	Feces	2011	North-America	USA	USA:AK	O2-O50-Gp7	H56	large	Unknown	2	63	fimH160
+GCA_002965925.2	MOD1-EC5451	Environmental	Water			Water	1993	North-America	USA	USA:NY	Unknown	H56	intermdiate	7989	4	58	fimH160
+GCA_002966025.1	MOD1-EC5426	Environmental	Soil			Soil	1993	North-America	USA	USA:NY	Unknown	H56	very small	2559	0	53	fimH150
+GCA_002966085.1	MOD1-EC5110	Animal	Wildlife	Duck		Cloacae	2006	North-America	USA	USA:AL	O103	H56	intermdiate	5260	3	64	fimH630
+GCA_003027595.1	20412-1	Animal	Wildlife	Long-Tailed Weasel	Mustela Frenata	Lymph Node	2007	North-America	USA	USA:WI	O180	H56	intermdiate	8158	4	51	fimH160
+GCA_003358385.1	SC345	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	O29	H56	very large	133	5	42	fimH630
+GCA_003358405.1	SC344	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	O29	H56	very large	133	5	42	fimH630
+GCA_003358435.1	SC342	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	O29	H56	very large	133	5	42	fimH630
+GCA_003358465.1	SC341	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	Onovel13	H56	intermdiate	2559	1	53	fimH150
+GCA_003358535.1	SC337	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	Onovel13	H56	intermdiate	2559	2	53	fimH150
+GCA_003358645.1	SC331	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	O29	H56	very large	133	5	42	fimH630
+GCA_003358665.1	SC329	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	Onovel13	H56	intermdiate	2559	0	53	fimH150
+GCA_003358755.1	SC326	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	O29	H56	very large	133	5	42	fimH630
+GCA_003358775.1	SC330	Environmental	Water			Waterline	2005	North-America	USA	USA: St. Louis Clyde watershed of Lake Superior	Onovel13	H56	intermdiate	2559	1	54	fimH150
+GCA_003793975.1	CVM N17EC1081	Animal	Livestock	Poultry		meat (Chicken Wings)	2017	North-America	USA	USA:OR	Onovel21	H56	intermdiate	7347	2	52	fimH160
+GCA_011751205.1	UMB2500_14	Human	Human	Human 	Homo Sapiens	NA	NA	North-America	USA	USA: Missouri	Onovel13	H56	intermdiate	3727	2	62	fimH623
+GCA_012050705.1	644129	Environmental	NA	NA	NA	NA	NA	Europe	United Kingdom	United Kingdom: United Kingdom	Onovel13	H56	intermdiate	2559	1	55	fimH150
+GCA_012207505.1	PSU-0676	Environmental	Water			Water	2000	North-America	USA	USA:NY	Onovel13	H56	very large	3727	4	64	fimH623
+GCA_012250685.1	PSU-0449	Environmental	Plant			Lettuce Leaf	2002	North-America	USA	USA:OH	Unknown	H56	large	2559	0	60	fimH150
+GCA_012294685.1	ECOL-18-VL-OH-WA-0026	Animal	Wildlife	Wolf	Canis Lupus	NA	2018	North-America	USA	USA:WA	Unknown	H56	intermdiate	9576	2	54	fimH626
+GCA_012542455.1	195605	NA	NA	NA	NA	Food	2015	Europe	United Kingdom	United Kingdom: United Kingdom	Unknown	H56	small	5463	0	52	fimH160
+GCA_012543115.1	195741	NA	NA	NA	NA	Food	2015	Europe	United Kingdom	United Kingdom: United Kingdom	Unknown	H56	intermdiate	5463	4	52	fimH160
+GCA_012546135.1	209701	Animal	Animal			Animal	2016	Europe	United Kingdom	United Kingdom: United Kingdom	O98	H56	small	3747	1	76	Unknown
+GCA_012546355.1	150966	Human	Human	Human 	Homo Sapiens	Human	2015	Europe	United Kingdom	United Kingdom: United Kingdom	O98	H56	very large	3747	4	82	Unknown
+GCA_012816495.1	SN2N-1	Human	Human			NA	NA	North-America	USA	USA	Onovel13	H56	small	3727	1	54	fimH623
+GCA_012859235.1	AMC_597	Human	Human	Human 	Homo Sapiens	Clinical Sample	2014	Europe	United Kingdom	United Kingdom: Oxford	O146	H56	intermdiate	7348	1	59	fimH630
+GCA_012860695.1	AMC_696	Human	Human	Human 	Homo Sapiens	Clinical Sample	2014	Europe	United Kingdom	United Kingdom: Oxford	Unknown	H56	intermdiate	5463	2	59	fimH160
+GCA_012920285.1	AMC_764	Human	Human	Human 	Homo Sapiens	Clinical Sample	2014	Europe	United Kingdom	United Kingdom: Oxford	O156	H56	intermdiate	7630	2	55	fimH627
+GCA_012920535.1	AMC_136	Human	Human	Human 	Homo Sapiens	Clinical Sample	2013	Europe	United Kingdom	United Kingdom: Oxford	O2-O50-Gp7/O2-Gp7	H56	very large	5566	3	60	fimH630
+GCA_013056685.1	PSU-0866	Animal	NA	Duck	NA	NA	2015	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	small	5600	0	53	fimH160
+GCA_013062845.1	PSU-0848	Animal	Wildlife	Duck 	King Eider	NA	2015	North-America	USA	USA:AK	O103	H56	large	5260	3	43	fimH630
+GCA_013062885.1	PSU-0845	Animal	Animal	Avian	NA	NA	2015	North-America	USA	USA:AK	Unknown	H56	small	2559	0	53	fimH150
+GCA_013063925.1	PSU-0852	Animal	Wildlife	Duck	Common Eider		2015	North-America	USA	USA:AK	Unknown	H56	intermdiate	7500	3	56	fimH160
+GCA_013063985.1	PSU-0839	Animal	Wildlife	Duck	Spectacled Eider		2015	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	very large	5600	2	62	fimH160
+GCA_013363435.1	E690	Animal	Livestock	Cow	Bos Taurus	Feces	2019	Europe	Spain	Spain	Onovel13	H56	very small	6495	0	52	fimH160
+GCA_013368815.2	12.2610	Animal	Wildlife	Duck	Somateria Fischeri		2012	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	intermdiate	6505	2	63	fimH160
+GCA_013368835.2	11.1596	Animal	Wildlife	Duck	Somateria Mollissima		2011	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	large	6505	2	63	fimH160
+GCA_013368845.2	93.0724	Environmental	Soil			Soil	1993	North-America	USA	USA:NY	Unknown	H56	small	2559	0	53	fimH150
+GCA_013368865.2	12.2612	Animal	Wildlife	Duck	Polysticta Stelleri		2012	North-America	USA	USA:AK	O53	H56	large	2721	3	61	fimH625
+GCA_013368935.2	93.1447	Animal	Wildlife	Bird	Larus Argentatus		1993	North-America	USA	USA:NY	O103	H56	very large	5260	5	49	fimH630
+GCA_013369055.2	14.0993	Animal	Wildlife	Duck	Somateria Fischeri		2014	North-America	USA	USA:AK	O10	H56	very large	5443	4	61	fimH160
+GCA_013369065.2	14.0982	Animal	Wildlife	Duck	Somateria Fischeri		2014	North-America	USA	USA:AK	O103	H56	large	5260	4	64	fimH630
+GCA_013369085.2	11.1597	Animal	Wildlife	Duck	Somateria Mollissima		2011	North-America	USA	USA:AK	O2-O50-Gp7	H56	very large	5600	2	63	fimH160
+GCA_013369115.2	14.0985	Animal	Wildlife	Duck	Somateria Fischeri		2014	North-America	USA	USA:AK	O53	H56	very large	2721	2	62	fimH625
+GCA_013369135.2	11.1600	Animal	Wildlife	Duck	Somateria Mollissima		2011	North-America	USA	USA:AK	O2-O50-Gp7/O2-Gp7	H56	large	6505	2	63	fimH160
+GCA_013369175.2	8.2195	Animal	Wildlife	Duck	Anas Platyrhynchos		2008	North-America	USA	USA:AK	O53	H56	large	2721	2	62	fimH625
+GCA_013392385.1	BS116-C	Human	Human	Human 	Homo Sapiens	Rectal Swab	2019	Europe	Switzerland	Switzerland	Unknown	H56	large	5463	2	58	fimH160
+GCA_013636045.1	RHB42-C09	Animal	Livestock	Sheep		Feces Pooled	2017	Europe	United Kingdom	United Kingdom	Unknown	H56	intermdiate	125	1	53	fimH160
+GCA_013636235.1	RHB24-C12	Animal	Livestock	Sheep		Feces Pooled	2017	Europe	United Kingdom	United Kingdom	O133	H56	large	5540	3	62	fimH630
+GCA_013732895.1	RHBSTW-00814	Environmental	Water			Freshwater Sample From Upstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O103	H56	very large	Unknown	3	61	fimH625
+GCA_013745515.1	RHBSTW-00777	Environmental	Water			Freshwater Sample From Upstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O103	H56	large	Unknown	2	55	fimH625
+GCA_013746655.1	RHBSTW-00605	Environmental	Water			Freshwater Sample From Downstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O2-O50-Gp7/O2-Gp7	H56	very large	5566	3	59	fimH630
+GCA_014103465.1	RHBSTW-00604	Environmental	Water			Freshwater Sample From Downstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O2-O50-Gp7/O2-Gp7	H56	very large	5566	3	58	fimH630
+GCA_014103665.1	RHBSTW-00265	Environmental	Water			Freshwater Sample From Downstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O133	H56	large	5540	2	53	fimH630
+GCA_014103675.1	RHBSTW-00263	Environmental	Water			Freshwater Sample From Downstream Of Wastewater Treatment Plant	2017	Europe	United Kingdom	United Kingdom	O133	H56	large	5540	2	53	fimH630
+GCA_014330995.1	EC245	Animal	Wildlife	Wild Boar	Sus scrofa	Diaphragm	2017	Europe	Italy	Italy	Unknown	H56	small	Unknown	0	53	fimH625
+GCA_014331035.1	EC237	Animal	Wildlife	Wild Boar	Sus scrofa	Diaphragm	2017	Europe	Italy	Italy	O84	H56	small	Unknown	1	52	fimH625
+GCA_014331505.1	EC115	Animal	Wildlife	Wild Boar	Sus scrofa	Diaphragm	2017	Europe	Italy	Italy	O156	H56	intermdiate	7630	3	53	fimH627
+GCA_014332865.1	1374a	Animal	Wildlife	Bird	Charadrius bicinctus		2018	Australia	Australia	Australia: Victoria Koo Wee Rup Yallock Creek	O139	H56	intermdiate	Unknown	2	60	fimH629
+GCA_014374305.1	458094	Environmental	NA	NA	NA	NA	2017	Europe	United Kingdom	United Kingdom	O103	H56	large	5260	0	52	fimH630
+GCA_014412145.1	311967	Human	Human	Human 	Homo Sapiens	Human	2016	Europe	United Kingdom	United Kingdom	Unknown	H56	intermdiate	5463	2	52	fimH160
+GCA_014878825.1	Uol_22	Animal	Companion Animal	Cat	Felis Catus	Urine	2018	Europe	United Kingdom	United Kingdom: England	O4	H56	intermdiate	133	0	65	fimH630
+GCA_016530545.1	Jun 77	Human	Human	Human 	Homo Sapiens	Urinary Tract Infection	NA	Europe	Portugal	Portugal: Porto	Unknown	H56	large	5463	3	64	fimH160
+GCA_019840275.1	C15-3	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	O5	H56	intermdiate	7416	4	40	fimH160
+GCA_019840725.1	C6-9	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	O5	H56	intermdiate	7416	1	40	fimH160
+GCA_019841085.1	C9-9	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	Unknown	H56	small	5391	1	42	fimH160
+GCA_019841225.1	C21-1	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	O5	H56	intermdiate	7416	4	40	fimH631
+GCA_019841245.1	C14-7	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	Unknown	H56	intermdiate	Unknown	2	53	fimH630
+GCA_019841255.1	C8-5	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	O128	H56	small	Unknown	2	38	fimH160
+GCA_019841305.1	C5-10	Animal	Livestock	Poultry		Feces	2018	Europe	United Kingdom	United Kingdom	O159/O5	H56	very large	Unknown	1	52	fimH630
+GCA_021373315.1	MVC381	Animal	Companion Animal	Dog	Canis Lupis Familiaris	Ear Swab 	2013	Australia	Australia	Australia: Melbourne	O4	H56	intermdiate	133	1	65	fimH630
+GCA_021373435.1	MVC186	Animal	Companion Animal	Dog	Canis Lupis Familiaris	Expressed Milk Fluid	2011	Australia	Australia	Australia: Melbourne	Onovel13	H56	small	7495	0	53	fimH160
+GCA_021373445.1	MVC382	Animal	Companion Animal	Dog	Canis Lupis Familiaris	Ear Swab 	2013	Australia	Australia	Australia: Melbourne	O4	H56	intermdiate	133	1	65	fimH630
+GCA_900499915.1	895B	Human	Human	Human 	Homo Sapiens	Rectal Swab	2018	Europe	France	France: Paris	O103	H56	small	Unknown	0	55	fimH631
+GCA_900636405.1	NCTC8196	NA	NA	NA	NA	NA	1950	Europe	United Kingdom	United Kingdom: London	O103	H56	intermdiate	5260	0	51	fimH630
+GCA_900637015.1	NCTC11133	NA	NA	NA	NA	NA	NA	NA	NA	NA	Onovel13	H56	small	3727	0	54	fimH623
+GCA_902709585.2	H1-003-0086-C-F	Human	Human	Human 	Homo Sapiens	Blood	NA	Europe	France	France: Créteil	O133	H56	intermdiate	5540	0	56	fimH630
+GCA_903932125.1	ROAR-43	Animal	Wildlife	Marten	Martes Martes	Feces	2002	Europe	France	France	O130	H56	very large	4104	2	57	fimH160
+GCA_904866245.1	MSB1_5C-sc-2280313	NA	NA	NA	NA	NA	NA	NA	NA	NA	Onovel13	H56	large	3727	5	62	fimH623
+GCA_907165445.1	F1T1-17	Animal	Livestock	Pig		Feces	2017	Europe	United Kingdom	United Kingdom	O2-O50-Gp7/O2-Gp7	H56	intermdiate	Unknown	0	62	fimH631
+GCA_907172375.1	F1T2-S10	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	Unknown	H56	small	5463	0	52	fimH160
+GCA_907172455.1	F1T2-S9	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	Unknown	H56	small	5463	0	52	fimH160
+GCA_907172565.1	F1T2-S20	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	O88	H56	intermdiate	Unknown	0	53	fimH630
+GCA_907173225.1	F1T2-S87	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	O53	H56	small	2721	1	52	fimH621
+GCA_907173255.1	F1T2-S89	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	O53	H56	small	2721	1	52	fimH621
+GCA_907173275.1	F1T2-S88	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	O53	H56	small	2721	1	52	fimH621
+GCA_910573545.1	F1T3-S124	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	O103	H56	very large	5260	3	49	fimH630
+GCA_910573665.1	F1T3-S123	Animal	Livestock	Pig		Feces	2018	Europe	United Kingdom	United Kingdom	Onovel8	H56	large	Unknown	3	53	fimH630
+GCA_916397085.1	HUSEmarmC2	Human	Human	Human 	Homo Sapiens	Urine	2021	Europe	Norway	Norway	O103	H56	small	5260	2	59	fimH630
+GCA_916398445.1	HUSEmarmC3	Human	Human	Human 	Homo Sapiens	Urine	2021	Europe	Norway	Norway	Onovel21	H56	intermdiate	Unknown	2	57	fimH622
+GCA_916400015.1	HUSEmarmC1	Human	Human	Human 	Homo Sapiens	Spondylodiscitis	2021	Europe	Norway	Norway	Unknown	H56	very large	Unknown	1	62	fimH625
+GCA_916401145.1	HUSEmarmC4a	Human	Human	Human 	Homo Sapiens	Blood	2021	Europe	Norway	Norway	Onovel21	H56	large	5500	1	55	fimH630
+GCA_916401445.1	HUSEmarmC4b	Human	Human	Human 	Homo Sapiens	Pus	2021	Europe	Norway	Norway	Onovel21	H56	large	5500	1	55	fimH630
+																	
+1 total genes calculated by NCBI Prokaryotic Genome Annotation Pipeline (PGAP)																	
+NA: not available																	
